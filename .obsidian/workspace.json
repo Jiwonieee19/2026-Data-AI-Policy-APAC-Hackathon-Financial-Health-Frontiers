@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "8eb1cda9dd59e90d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cc885c412cdbb03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdd2ddee86599a73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4080d94c3fd98c8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "acdf15cdff62bc21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96d62364759a63a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a02748ef15abf44d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ebc3c169f002680b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbc16cb0faabc27d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d8d7005619c06d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce7988593d08ee67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hackathon/Hackathon MOC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hackathon MOC"
+            }
+          },
+          {
+            "id": "1892329a36a77bed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hackathon/Hackathon MOC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hackathon MOC"
+            }
+          },
+          {
+            "id": "9c4ea7d9dcb0e2c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e1e08b2ca1ec6f4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "47de043f363a2d5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hackathon/Hackathon MOC.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hackathon MOC"
+            }
+          },
+          {
+            "id": "3eb873ba3fced997",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cdd2ddee86599a73",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Hackathon Financial Health Frontiers/Hackathon MOC.md",
+    "remote-blog/Ideas/More Ideas/More Ideas Index.md",
+    "remote-blog/Ideas/More Ideas/Ideas Template.md",
+    "remote-blog/Ideas/More Ideas/Idea 7 - AI Financial Coach.md",
+    "remote-blog/Ideas/More Ideas/Idea 6 - Gamified Group Savings Challenge.md",
+    "remote-blog/Ideas/More Ideas/Idea 5 - Portable Financial Identity Passport.md",
+    "remote-blog/Ideas/More Ideas/Idea 4 - Subjective Well-being Tracker.md",
+    "remote-blog/Ideas/More Ideas/Idea 3 - Parametric Micro-Insurance Registry.md",
+    "remote-blog/Ideas/More Ideas/Idea 2 - Voice-Led Ledger for Micro-Merchants.md",
+    "remote-blog/Ideas/More Ideas/Idea 1 - Alt-Data Credit Scoring for Farmers.md",
+    "remote-blog/Ideas/Lao Directions/Directions Overview.md",
+    "remote-blog/Ideas/Lao Directions/Direction 4 - Subjective Stress Tracker.md",
+    "remote-blog/Ideas/Lao Directions/Direction 3 - Parametric Micro-Insurance.md",
+    "remote-blog/Ideas/Lao Directions/Direction 2 - Voice-Led Micro-Ledger.md",
+    "remote-blog/Ideas/Lao Directions/Direction 1 - Agri-Credit Scoring.md",
+    "remote-blog/Ideas/Sir Nickler Ideas.md",
+    "remote-blog/Ideas/More Ideas",
+    "remote-blog/Ideas/Lao Directions",
+    "remote-blog/Ideas",
+    "remote-blog/Hackathon MOC.md",
+    "remote-blog/Challenges/Sir Nickler Ideas/Sir Nickler Ideas Index.md",
+    "remote-blog/Challenges/Sir Nickler Ideas/Challenge 3 - Invisible Exclusion Problem.md",
+    "remote-blog/Challenges/Sir Nickler Ideas/Challenge 2 - Climate Finance Blind Spot.md",
+    "remote-blog/Challenges/Sir Nickler Ideas/Challenge 1 - Preventive Care Gap.md",
+    "remote-blog/Challenges/Sir Nickler Ideas",
+    "remote-blog/Challenges/Finverse Resource Constraints.md",
+    "remote-blog/Challenges/Finverse Insight Generation.md",
+    "remote-blog/Challenges/Finverse Data Quality.md",
+    "remote-blog/Challenges/Finverse Data Access.md",
+    "remote-blog/Challenges",
+    "remote-blog/About the hackathon",
+    "remote-blog/Hackathon Financial Health Frontiers/Ideas/More Ideas",
+    "remote-blog/Hackathon Financial Health Frontiers/Ideas/Lao Directions",
+    "remote-blog/Hackathon Financial Health Frontiers/Ideas",
+    "remote-blog/Hackathon Financial Health Frontiers/Challenges/Sir Nickler Ideas"
+  ]
+}
