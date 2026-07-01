@@ -14,7 +14,7 @@ This challenge was surfaced from **Direction 1** in [[Sir Nickler Ideas|Sir Nick
 
 ---
 
-## The Core Problem (In Plain English)
+## The Core Problem 
 
 Most MFIs and cooperatives only interact with members when something goes wrong — a missed payment, a loan renewal request, or a default flag. The relationship is purely **reactive and transactional**.
 
