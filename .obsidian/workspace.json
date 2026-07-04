@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ryy Understanding/TODO.md",
+                "file": "Ryy Understanding/Overview & Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Overview & Problems"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About the hackathon/About.md",
+                "file": "Ryy Understanding/IDEAS/IDEA 2 - Field Officer Decision Support for Smallholder Farmers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "IDEA 2 - Field Officer Decision Support for Smallholder Farmers"
             }
           }
         ]
@@ -216,15 +216,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f1d72f78a5ce225",
+  "active": "cdd2ddee86599a73",
   "lastOpenFiles": [
-    "Ryy Understanding/To Be Keep In Mind.md",
-    "Ryy Understanding/TODO.md",
-    "Ryy Understanding/WorkFlow.md",
+    "Ryy Understanding/IDEAS/IDEA 1 - Personality-Based Financial Health Platform for Teachers.md",
+    "About the hackathon/About.md",
+    "Ryy Understanding/IDEAS/IDEA 2 - Field Officer Decision Support for Smallholder Farmers.md",
     "Ryy Understanding/Overview & Problems.md",
+    "Ryy Understanding/WorkFlow.md",
+    "Ryy Understanding/To Be Keep In Mind.md",
+    "Ryy Understanding/Main Solution.md",
+    "Ryy Understanding/IDEAS/IDEA 1 - Emotion as Data.md",
+    "Ryy Understanding/IDEAS",
     "Hackathon MOC.md",
     "Ryy Understanding",
-    "About the hackathon/About.md",
     "About the hackathon/Timeline.md",
     "About the hackathon/Conceptual Guide - Understanding the Themes.md",
     "Hackathon Financial Health Frontiers/Hackathon MOC.md",
@@ -242,17 +246,13 @@
     "remote-blog/Ideas/Lao Directions/Direction 3 - Parametric Micro-Insurance.md",
     "remote-blog/Ideas/Lao Directions/Direction 2 - Voice-Led Micro-Ledger.md",
     "remote-blog/Ideas/Lao Directions/Direction 1 - Agri-Credit Scoring.md",
-    "remote-blog/Ideas/Sir Nickler Ideas.md",
     "remote-blog/Ideas/More Ideas",
     "remote-blog/Ideas/Lao Directions",
     "remote-blog/Ideas",
-    "remote-blog/Hackathon MOC.md",
-    "remote-blog/Challenges/Sir Nickler Ideas/Sir Nickler Ideas Index.md",
     "remote-blog/Challenges/Sir Nickler Ideas",
     "remote-blog/Challenges",
     "remote-blog/About the hackathon",
     "remote-blog/Hackathon Financial Health Frontiers/Ideas/More Ideas",
-    "remote-blog/Hackathon Financial Health Frontiers/Ideas/Lao Directions",
-    "remote-blog/Hackathon Financial Health Frontiers/Ideas"
+    "remote-blog/Hackathon Financial Health Frontiers/Ideas/Lao Directions"
   ]
 }
