@@ -14,7 +14,7 @@ This challenge was surfaced from **Direction 2** in [[Sir Nickler Ideas|Sir Nick
 
 ---
 
-## 🔍 The Core Problem (In Plain English)
+## 🔍 The Core Problem
 
 Mindanao — and APAC more broadly — sits inside one of the world's most active typhoon belts. Floods, droughts, and storms don't just damage crops; they devastate the fragile financial lives of smallholder farmers and coastal communities who have **no buffer and no advance warning system**.
 

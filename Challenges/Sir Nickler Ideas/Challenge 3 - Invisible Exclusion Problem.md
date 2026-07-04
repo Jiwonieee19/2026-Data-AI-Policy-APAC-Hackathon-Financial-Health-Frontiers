@@ -26,12 +26,12 @@ The challenge is: **FSPs are producing inequitable outcomes without realizing it
 
 ## 📌 Why This Is Hard
 
-| Obstacle | Explanation |
-| :--- | :--- |
-| **Discomfort with self-auditing** | Boards and leadership don't naturally want to discover their own exclusionary patterns. The "problem" must be reframed as a *mission opportunity*, not an accusation. |
-| **Data isn't disaggregated** | Most MFIs aggregate their reports by branch or portfolio. They don't slice by gender, geography, livelihood type, or ethnic group — so the patterns are invisible. |
-| **No benchmark to compare against** | Without a standard of what "equitable" looks like for a particular region and client base, institutions don't know what healthy representation should be. |
-| **Attribution is complex** | Exclusion can come from product design, location of branches, language of materials, officer incentives, or deeply embedded cultural norms. Finding root causes is hard. |
+| Obstacle                            | Explanation                                                                                                                                                              |
+| :---------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Discomfort with self-auditing**   | Boards and leadership don't naturally want to discover their own exclusionary patterns. The "problem" must be reframed as a *mission opportunity*, not an accusation.    |
+| **Data isn't disaggregated**        | Most MFIs aggregate their reports by branch or portfolio. They don't slice by gender, geography, livelihood type, or ethnic group — so the patterns are invisible.       |
+| **No benchmark to compare against** | Without a standard of what "equitable" looks like for a particular region and client base, institutions don't know what healthy representation should be.                |
+| **Attribution is complex**          | Exclusion can come from product design, location of branches, language of materials, officer incentives, or deeply embedded cultural norms. Finding root causes is hard. |
 
 ---
 
