@@ -1,0 +1,9 @@
+# FSP Opportunities — Underserved Communities & Financial Health
+
+| Opportunity | Target Market | Gap Addresses | Example Product/Service |
+|---|---|---|---|
+| **Proactive distress detection before default** | Teachers & professors with stable salaries but chronic debt cycles (e.g., UM Cooperative) | FSPs only react after missed payments; no system captures behavioral or subjective stress signals early | **Alagad** — Personality assessment + in-app pulse checks + AI Companion chatbot + prediction model flagging distress 1-3 months early with matched interventions |
+| **Personality-matched financial products** | Low-income salaried professionals who are financially literate but behaviorally stuck | One-size-fits-all products ignore psychological drivers of financial behavior | **Personality-based product matching** — Big Five assessment maps members to right loan terms, savings, and insurance based on their trait profile |
+| **24/7 financial companionship** | First-gen formal finance users with no access to advisors | Members have questions outside office hours but no trusted source to ask | **AI Companion Chatbot** — In-app assistant answering money questions, accepting worry "dumps," flagging distress, surfacing interventions in plain language |
+| **Alternative credit scoring** | Smallholder farmers, micro-merchants, informal workers without credit history | Traditional scores exclude anyone without formal financial footprints | **Alt-data scoring** — Cooperative history + savings behavior + check-in consistency + personality traits as creditworthiness signals |
+| **Behavioral savings scaffolding** | Low-income families, youth, informal workers without emergency buffers | Knowing you should save ≠ actually saving; no accountability structure exists | **Gamified group savings** — Savings squads with streaks, leaderboards, and FSP-linked rewards built on social accountability |
